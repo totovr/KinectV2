@@ -6,7 +6,7 @@ This repository contains a NiTE folder with the libfreenect drivers to setup Kin
 
 - Follow the installation steps of [libfreenect2](https://github.com/OpenKinect/libfreenect2)
 
-- You can download directly NiTE with the updated drivers from [here](https://mega.nz/#F!GE5zwAYJ)
+- You can download directly NiTE with the updated drivers from [here](https://mega.nz/#!iN5S3KLB)
 
 ## Images
 
