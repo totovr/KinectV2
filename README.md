@@ -34,4 +34,4 @@ This repository contains a NiTE folder with the libfreenect drivers to setup Kin
 
 ## Images
 
-<img src="https://github.com/totovr/KinectV2/blob/master/Assets/tracking.JPG" width="600">
+<img src="https://github.com/totovr/KinectV2/blob/master/Assets/tracking2.png" width="600">
