@@ -16,9 +16,9 @@ This repository contains a NiTE folder with the libfreenect drivers to setup Kin
    
    * Inside of this folder will be the next two files:
    
-    **libfreenect2-openni2.so**
+     **libfreenect2-openni2.so**
    
-    **libfreenect2-openni2.so.0**
+     **libfreenect2-openni2.so.0**
    
    * Copy this files inside of the NiTE2 folder, in my case is the next route:
     
